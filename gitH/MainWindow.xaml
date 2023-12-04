@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:gitH"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+    <StackPanel>
+        <Button>Przycisk</Button>
+    </StackPanel>
 </Window>
