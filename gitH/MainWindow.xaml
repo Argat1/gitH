@@ -9,7 +9,7 @@
     <StackPanel>
         <Button>Przycisk</Button>
         <Label Content="Tekst"/>
-        <Label Content="Tekst2"/>
+        <Label Content="OK"/>
     </StackPanel>
     
 </Window>
